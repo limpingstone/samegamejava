@@ -1,5 +1,5 @@
 # The Same Game
-A Java-based same game programi
+A Java-based same game program
 
 Project for EECS 132 - Introduction to Programming in Java
 
